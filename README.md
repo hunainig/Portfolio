@@ -1,0 +1,1 @@
+The file contains code for our project for the course of "Object Oriented Programming" where we created a block stacking game from stack. We created this project using c++ and the sfml library which helped us with the graphics of the game. 
